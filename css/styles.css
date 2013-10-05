@@ -1,0 +1,40 @@
+﻿* {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 600px;
+}
+
+nav {
+    margin: 2em;
+}
+
+nav > a {
+    padding: 20px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+hr.breakline {
+    background-color: green;
+    height: 8px;
+}
+
+footer {
+    border-top: double;
+    padding-top: 5px;
+}
+
+address {
+    display: inline;
+    margin: 20px;
+}
+
