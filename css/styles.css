@@ -81,10 +81,17 @@ ol.numbered {
 img {
     width: 200px;
     height: 200px;
+    float: right;
+}
+
+.container {
+    text-align: left;
+    margin: 0px;
+    display: inline;
 }
 
 .bodytext {
     max-width: 380px;
-    text-align: left;
+    margin: 0px;
 }
 
